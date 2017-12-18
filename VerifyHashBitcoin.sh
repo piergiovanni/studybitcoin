@@ -40,7 +40,7 @@ meroot=8dbf040eea2f160472b57c2b925738b8c3e3252f5099031643aa8f9a6980d2a7 # - Merk
 nonce=$(printf "%08x\n" 1299284) # - Nonce
 
 
-# Create function little endian format 
+# function  hex to little endian format 
 
 lend () { 
 
